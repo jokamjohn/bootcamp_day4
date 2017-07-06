@@ -11,16 +11,14 @@ body{
 }
 
 #center-img{
-    margin: auto;
     width: 24%;
     height: auto;
-    margin-top: 11%;
+    margin: 11% auto auto;
 }
 
 #search-area{
     width: 50%;
-    margin: auto;
-    margin-top: 4%;
+    margin: 4% auto auto;
 }
 
 #search-txt{
@@ -42,3 +40,4 @@ body{
 footer .navbar-default{
     background-color: #eee;
 }
+
